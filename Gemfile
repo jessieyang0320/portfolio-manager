@@ -36,10 +36,12 @@ gem 'jbuilder', '~> 2.5'
 # add gems:
 
 gem 'devise'
-gem 'stock-quote'
+gem 'stock_quote'
 gem 'react-rails'
 gem 'pry-rails', :group => :development
 gem 'rack-cors', :require => 'rack/cors'
+gem 'yahoo-finance'
+gem 'active_model_serializers'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
