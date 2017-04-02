@@ -36,7 +36,7 @@ gem 'jbuilder', '~> 2.5'
 # add gems:
 
 gem 'devise'
-gem 'stock-quote'
+gem 'stock_quote'
 gem 'react-rails'
 gem 'pry-rails', :group => :development
 gem 'rack-cors', :require => 'rack/cors'
