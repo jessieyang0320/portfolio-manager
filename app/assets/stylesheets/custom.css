@@ -1,0 +1,79 @@
+.table-div{
+  margin-left: 40%;
+  width: 800px;
+
+}
+
+.sub-header{
+  margin-top: 70%;
+  margin-left: 40%;
+  width: 600px;
+}
+
+#portfolio-pnl{
+  margin-left: 40%;
+  width: 300px;
+}
+
+.profile-report{
+  margin-top: 60px;
+  float: left;
+  margin-left: 60px;
+}
+
+tr {
+  border-bottom:1pt solid #A0A0A0 ;
+}
+
+th {
+  padding: 10px;
+  width: auto;
+  background-color: #E0E0E0;
+}
+td {
+  width: 75%;
+  padding: 10px;
+  background-color: #F8F8F8;
+}
+
+.report-header {
+  margin-top: 100px;
+  text-align: center;
+}
+
+
+#stuff {
+  text-align: center;
+}
+
+#piechart {
+  width:300px;
+  height:300px;
+}
+
+#position-type{
+  margin-top: 25px;
+  margin-right: 10px;
+  width: 50px;
+  height: 35px;
+}
+
+#amount{
+  margin-right: 5px;
+}
+
+#position-sumbit-button{
+  margin-left: 3px;
+  border-radius: 5px;
+  background-color: rgb(248, 248, 248);
+}
+
+#chartContainer {
+  height: 300px;
+  width: 40%;
+}
+
+#make-trade{
+  margin-top: 35%;
+  margin-left: 30%;
+}
