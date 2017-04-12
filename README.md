@@ -1,24 +1,12 @@
 # README
+Working in process... 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Portfolio Manager serves as a visual dashboard that displays all of user’s current stock trading positions using real time stock prices and tracks user`s total Profit and Loss (P&L) on all user`s positions. 
+Back-end: Stock-quote API, Ruby on Rails, devise for user authentication
+Front-end: React.JS, Chart.js, Chartkick
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Need to fix: 
+chart position shifts when data updated realtime 
+user component
+styling 
+show search result on a new page
